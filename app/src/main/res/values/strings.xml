@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">tugas</string>
+    <string name="nmpresiden1">Ir.Soekarna</string>
+    <string name="nmpresiden2">Soeharto</string>
+    <string name="nmpresiden3">B. J. Habibie</string>
+    <string name="nmpresiden4">Abdurrahman Wahid</string>
+    <string name="nmpresiden5">Megawati Soekarno Putri</string>
+    <string name="nmpresiden6">Susolo Bambang Yudhoyono</string>
+    <string name="nmpresiden7">Joko widodo</string>
+
+    <string name="presiden1">Presiden ke 1 Indonesia</string>
+    <string name="presiden2">Presiden ke 2 Indonesia</string>
+    <string name="presiden3">Presiden ke 3 Indonesia</string>
+    <string name="presiden4">Presiden ke 4 Indonesia</string>
+    <string name="presiden5">Presiden ke 5 Indonesia</string>
+    <string name="presiden6">Presiden ke 6 Indonesia</string>
+    <string name="presiden7">Presiden ke 7 Indonesia</string>
+</resources>
